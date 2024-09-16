@@ -62,7 +62,7 @@ struct OnboardingActivateScreenRecording: View {
                             .cornerRadius(16)
                     }
                               
-                    Text("Quite & Reopen")
+                    Text("Quit & Reopen")
                         .font(.system(size: 14, weight: .bold))
                         .foregroundColor(Color("TitleText"))
                 }
